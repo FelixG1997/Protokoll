@@ -1,0 +1,11 @@
+{"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\QKathi sehnt sich generell nach etwas Entlastung, hat zugleich aber immer ein schlechtes Gewissen, sofern sie einen Tag nichts für die Uni getan hat.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\QSchritt Aufgaben ungefähre Dauer Anfahrt Beispielhafter Ablauf eines analogen Tests in Form eines Multiple-Choice-Fragebogens.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\QSchritt Aufgaben ungefähre Dauer Beispielhafter Ablauf eines digitalen Tests in Form eines Multiple-Choice-Fragebogens.\\E$"}
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QSeit der in 2020 ausgebrochenen Corona-Pandemie wurden Onlineklausuren eingeführt, sodass die Studierende seitdem über das Prüfungsmoodle an den Klausuren teilnehmen.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\QSelbiges gilt für den Globalen Kontext\\E$"}
+{"rule":"DE_CASE","sentence":"^\\QGleiches gilt für den Globalen Kontext, welcher durch allgegenwärtige oder ubiquitäre Computersysteme ausgedrückt wird, die immer und überall verfügbar sind.\\E$"}
+{"rule":"TOO_LONG_PARAGRAPH","sentence":"^\\QGleiches gilt für den Globalen Kontext, welcher durch allgegenwärtige oder ubiquitäre Computersysteme ausgedrückt wird, die immer und überall verfügbar sind.\\E$"}
+{"rule":"DE_AGREEMENT","sentence":"^\\QAusgehend davon liefert das Mission Statement eine grobe Idee der Lösung, ohne dabei ins Detail zu gehen \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"COMMA_BEHIND_RELATIVE_CLAUSE","sentence":"^\\QUnter Akzeptanzkriterien versteht man Bedingungen, unter denen eine Anforderung akzeptiert wird \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"DE_CASE","sentence":"^\\QNach Prime und Dachselt: Personas in Gestaltungsprozess einbeziehen (Methodik: ISO Norm – Gestaltungslösungen aus Benutzerperspektive evaluieren) Abstrakte Beschreibung der Funktionsweise des Systems\\E$"}
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QIn der heutigen Zeit suggerieren uns Online-Coaches auf Internetplattformen, beispielsweise Youtube, die Leichtigkeit des Datings.\\E$"}
