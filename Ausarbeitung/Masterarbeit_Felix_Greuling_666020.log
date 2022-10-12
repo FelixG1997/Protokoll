@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.3) (format=lualatex 2021.8.30)  12 OCT 2022 15:58
+This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.3) (format=lualatex 2021.8.30)  12 OCT 2022 18:21
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Masterarbeit_Felix_Greuling_666020
@@ -3097,91 +3097,99 @@ LaTeX Font Info:    Font shape `TU/AlegreyaSans(2)/m/n' will be
 ]
 Kapitel 2.
 LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
-(Font)              scaled to size 10.9pt on input line 13.
-<Sources/clickbait.png, id=115, 1091.07625pt x 215.80624pt>
+(Font)              scaled to size 10.9pt on input line 22.
+<Sources/clickbait.png, id=116, 1091.07625pt x 215.80624pt>
 File: Sources/clickbait.png Graphic file (type png)
 <use Sources/clickbait.png>
-Package luatex.def Info: Sources/clickbait.png  used on input line 15.
+Package luatex.def Info: Sources/clickbait.png  used on input line 24.
 (luatex.def)             Requested size: 436.42278pt x 86.32095pt.
 
-Overfull \hbox (9.63142pt too wide) in paragraph at lines 15--16
+Overfull \hbox (9.63142pt too wide) in paragraph at lines 24--25
  [][] 
  []
 
 
 LaTeX Warning: Citation 'royalflushseduction' on page 2 undefined on input line
- 16.
+ 25.
 
 LaTeX Font Info:    Font shape `TU/Alegreya(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 16.
+(Font)              scaled to size 12.0pt on input line 25.
 
 LaTeX Warning: Citation 'royalflushseduction' on page 2 undefined on input line
- 16.
+ 25.
 
 
-LaTeX Warning: Citation 'kundler' on page 2 undefined on input line 23.
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]\TU/AlegreyaSans(2)/m/n/12 Ab-bil-dung 󰋇.󰋆:[] []\TU/Alegreya(0)/m/n/12 
+Klassisches Th-umbnail mit Clickbaiting-Komponenten
+ []
 
 
-LaTeX Warning: Citation 'statista' on page 2 undefined on input line 25.
-
-<Sources/alter.png, id=117, 845.1575pt x 406.51875pt>
-File: Sources/alter.png Graphic file (type png)
-<use Sources/alter.png>
-Package luatex.def Info: Sources/alter.png  used on input line 31.
-(luatex.def)             Requested size: 380.31737pt x 182.93173pt.
-
-LaTeX Warning: Citation 'statista' on page 2 undefined on input line 32.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 42.
-LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 42.
-LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 42.
-LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 42.
-LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 42.
-LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 42.
-LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 42.
-LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 42.
-LaTeX Font Info:    Font shape `TU/TeXGyreChorus(0)/m/n' will be
-(Font)              scaled to size 11.00006pt on input line 42.
-LaTeX Font Info:    Font shape `TU/TeXGyreChorus(0)/m/n' will be
-(Font)              scaled to size 7.70004pt on input line 42.
-LaTeX Font Info:    Font shape `TU/TeXGyreChorus(0)/m/n' will be
-(Font)              scaled to size 5.50003pt on input line 42.
-LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 42.
-
-LaTeX Warning: Citation 'seitensprung' on page 2 undefined on input line 44.
+LaTeX Warning: Citation 'royalflushseduction' on page 2 undefined on input line
+ 30.
 
 [2
 
 <./Sources/clickbait.png>]
-Overfull \hbox (2.27754pt too wide) in paragraph at lines 51--52
+
+LaTeX Warning: Citation 'kundler' on page 3 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'statista' on page 3 undefined on input line 44.
+
+<Sources/alter.png, id=125, 586.44093pt x 302.63063pt>
+File: Sources/alter.png Graphic file (type png)
+<use Sources/alter.png>
+Package luatex.def Info: Sources/alter.png  used on input line 50.
+(luatex.def)             Requested size: 304.95103pt x 157.36882pt.
+
+LaTeX Warning: Citation 'statista' on page 3 undefined on input line 51.
+
+LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 61.
+LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 61.
+LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(2)/m/n' will be
+(Font)              scaled to size 10.00107pt on input line 61.
+LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(2)/m/n' will be
+(Font)              scaled to size 7.00075pt on input line 61.
+LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 61.
+LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 61.
+LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 61.
+LaTeX Font Info:    Font shape `TU/TeXGyrePagellaMath(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 61.
+LaTeX Font Info:    Font shape `TU/TeXGyreChorus(0)/m/n' will be
+(Font)              scaled to size 11.00006pt on input line 61.
+LaTeX Font Info:    Font shape `TU/TeXGyreChorus(0)/m/n' will be
+(Font)              scaled to size 7.70004pt on input line 61.
+LaTeX Font Info:    Font shape `TU/TeXGyreChorus(0)/m/n' will be
+(Font)              scaled to size 5.50003pt on input line 61.
+LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 61.
+
+LaTeX Warning: Citation 'seitensprung' on page 3 undefined on input line 63.
+
+[3<./Sources/alter.png>]
+Overfull \hbox (2.27754pt too wide) in paragraph at lines 70--71
 []\TU/Alegreya(0)/m/n/12 Der de-men-te Part-ner ver-gisst so-wie-so in-ner-halb von ei-ner hal-ben Stun-de, wenn Uschi
  []
 
 
-LaTeX Warning: Citation 'statista' on page 3 undefined on input line 53.
+LaTeX Warning: Citation 'statista' on page 4 undefined on input line 72.
 
 
-LaTeX Warning: Citation 'bliemel' on page 3 undefined on input line 54.
+LaTeX Warning: Citation 'bliemel' on page 4 undefined on input line 73.
 
-) (./hauptteil.tex [3<./Sources/alter.png>]
+) (./hauptteil.tex [4]
 Kapitel 3.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(2)/m/n' will be
 (Font)              scaled to size 13.0pt on input line 21.
-[4
+[5
 
-]) (./zusammenfassung.tex [5]
+]) (./zusammenfassung.tex [6]
 Kapitel 4.
 )
 
@@ -3192,7 +3200,7 @@ eady exists on the system.
 
 LaTeX Warning: Empty bibliography on input line 73.
 
-[6
+[7
 
 ] (./Masterarbeit_Felix_Greuling_666020.aux)
 
@@ -3213,14 +3221,14 @@ n.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 41550 strings out of 478531
+ 41552 strings out of 478531
  100000,1977958 words of node,token memory allocated
  671 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 1 dir, 9 glue, 4 kern, 1 glyph, 22 attribute, 67 gl
 ue_spec, 13 attribute_list, 2 write nodes
-   avail lists: 1:1,2:473,3:178,4:124,5:511,6:47,7:4920,8:35,9:236,10:9,11:548
- 60010 multiletter control sequences out of 65536+600000
- 255 fonts using 76250547 bytes
+   avail lists: 1:1,2:473,3:178,4:124,5:511,6:47,7:5299,8:35,9:202,10:9,11:548
+ 60011 multiletter control sequences out of 65536+600000
+ 255 fonts using 76250431 bytes
  113i,8n,137p,1844b,2941s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/FelixGreuling/AppData/Local/Programs/MiKTeX/fonts/opentype/huerta/aleg
 reya/Alegreya-Bold.otf><C:/Users/FelixGreuling/AppData/Local/Programs/MiKTeX/fon
@@ -3231,10 +3239,10 @@ legreyaSans-Bold.otf><C:/Users/FelixGreuling/AppData/Local/Programs/MiKTeX/fonts
 /opentype/huerta/alegreya/AlegreyaSans-Italic.otf><C:/Users/FelixGreuling/AppDat
 a/Local/Programs/MiKTeX/fonts/opentype/huerta/alegreya/AlegreyaSans-Regular.otf>
 
-Output written on Masterarbeit_Felix_Greuling_666020.pdf (10 pages, 226017 bytes
+Output written on Masterarbeit_Felix_Greuling_666020.pdf (11 pages, 226095 bytes
 ).
 
-PDF statistics: 197 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 131072)
+PDF statistics: 206 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 131072)
  136 words of extra memory for PDF output out of 10000 (max. 100000000)
 
