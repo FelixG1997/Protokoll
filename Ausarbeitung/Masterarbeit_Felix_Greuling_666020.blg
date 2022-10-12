@@ -22,12 +22,17 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: Masterarbeit_Felix_Greuling_666020-blx.bib
 Database file #2: Masterarbeit_Felix_Greuling_666020-bibtex-entries.bib
+Warning--I didn't find a database entry for "royalflushseduction"
+Warning--I didn't find a database entry for "kundler"
+Warning--I didn't find a database entry for "statista"
+Warning--I didn't find a database entry for "seitensprung"
+Warning--I didn't find a database entry for "bliemel"
 Biblatex version: 3.16
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 You've used 1 entry,
             6393 wiz_defined-function locations,
-            1201 strings with 9081 characters,
+            1206 strings with 9134 characters,
 and the built_in function-call counts, 1578 in all, are:
 = -- 74
 > -- 76
@@ -66,3 +71,4 @@ warning$ -- 0
 while$ -- 66
 width$ -- 0
 write$ -- 20
+(There were 5 warnings)

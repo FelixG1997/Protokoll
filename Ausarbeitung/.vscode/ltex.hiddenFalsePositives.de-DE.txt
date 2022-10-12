@@ -9,3 +9,4 @@
 {"rule":"COMMA_BEHIND_RELATIVE_CLAUSE","sentence":"^\\QUnter Akzeptanzkriterien versteht man Bedingungen, unter denen eine Anforderung akzeptiert wird \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
 {"rule":"DE_CASE","sentence":"^\\QNach Prime und Dachselt: Personas in Gestaltungsprozess einbeziehen (Methodik: ISO Norm – Gestaltungslösungen aus Benutzerperspektive evaluieren) Abstrakte Beschreibung der Funktionsweise des Systems\\E$"}
 {"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QIn der heutigen Zeit suggerieren uns Online-Coaches auf Internetplattformen, beispielsweise Youtube, die Leichtigkeit des Datings.\\E$"}
+{"rule":"FRAGEZEICHEN_STATT_PUNKT","sentence":"^\\QBist du allerdings ein mysteriöser Typ, dann greift eine Ausnahme.\\E$"}
