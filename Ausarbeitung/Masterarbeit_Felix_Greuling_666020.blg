@@ -22,53 +22,49 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: Masterarbeit_Felix_Greuling_666020-blx.bib
 Database file #2: Masterarbeit_Felix_Greuling_666020-bibtex-entries.bib
-Warning--I didn't find a database entry for "royalflushseduction"
-Warning--I didn't find a database entry for "kundler"
-Warning--I didn't find a database entry for "statista"
-Warning--I didn't find a database entry for "seitensprung"
 Warning--I didn't find a database entry for "bliemel"
 Biblatex version: 3.16
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 1 entry,
+You've used 8 entries,
             6393 wiz_defined-function locations,
-            1206 strings with 9134 characters,
-and the built_in function-call counts, 1578 in all, are:
-= -- 74
-> -- 76
-< -- 1
-+ -- 55
-- -- 32
-* -- 33
-:= -- 378
+            1239 strings with 10183 characters,
+and the built_in function-call counts, 20819 in all, are:
+= -- 975
+> -- 398
+< -- 206
++ -- 256
+- -- 126
+* -- 1119
+:= -- 1389
 add.period$ -- 0
-call.type$ -- 1
-change.case$ -- 0
-chr.to.int$ -- 46
-cite$ -- 0
-duplicate$ -- 11
-empty$ -- 105
-format.name$ -- 0
-if$ -- 330
+call.type$ -- 8
+change.case$ -- 116
+chr.to.int$ -- 52
+cite$ -- 14
+duplicate$ -- 2342
+empty$ -- 2455
+format.name$ -- 145
+if$ -- 4700
 int.to.chr$ -- 0
-int.to.str$ -- 0
+int.to.str$ -- 16
 missing$ -- 0
-newline$ -- 20
-num.names$ -- 0
-pop$ -- 47
+newline$ -- 156
+num.names$ -- 205
+pop$ -- 2306
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 118
 quote$ -- 0
-skip$ -- 79
+skip$ -- 1007
 stack$ -- 0
-substring$ -- 159
-swap$ -- 1
-text.length$ -- 20
-text.prefix$ -- 0
+substring$ -- 1163
+swap$ -- 781
+text.length$ -- 151
+text.prefix$ -- 7
 top$ -- 1
-type$ -- 22
+type$ -- 260
 warning$ -- 0
-while$ -- 66
+while$ -- 197
 width$ -- 0
-write$ -- 20
-(There were 5 warnings)
+write$ -- 149
+(There was 1 warning)
